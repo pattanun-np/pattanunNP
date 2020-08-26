@@ -1,9 +1,8 @@
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=pattanunNP&style=flat-square&color=ff6933)
 
-
-Hello everyone, my name is Pattanan Numpong you can call me Arm.
-I am a grade 12th student at Surawiwat School. I love coding biomedical technology and robotics. I really interested in Life-science especially Bioinformatics. If have some freetime, I will spent my free to online learning or go to science camp. I like to tech and give inspiration to people. My research interest I interested to research in field of Health tech, Medical tech esqecally in machine learning.
+# Pattanan Numpong
+I am a grade 12th Thai student at Surawiwat School. I love coding biomedical technology and robotics. I really interested in Life-science especially Bioinformatics. If have some freetime, I will spent my free to online learning or go to science camp. I like to tech and give inspiration to people. My research interest I interested to research in field of Health tech, Medical tech esqecally in machine learning.
 
 ![pattanunNP github stats](https://github-readme-stats.vercel.app/api?username=pattanunNP&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pattanunNP&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
