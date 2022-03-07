@@ -97,3 +97,5 @@ I like to tech and give inspiration to people. My research interest I interested
 ![pattanunNP github stats](https://github-readme-stats.vercel.app/api?username=pattanunNP&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pattanunNP&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://app.daily.dev/PattanunNP"><img src="https://api.daily.dev/devcards/12d3469244e642408bec76a23a7e3ee6.png?r=wmq" width="400" alt="พัทธนันท์ นุ่มผ่อง's Dev Card"/></a>
+
