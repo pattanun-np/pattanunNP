@@ -42,9 +42,11 @@ I like to tech and give inspiration to people. My research interest I interested
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Fiber](https://img.shields.io/badge/Fiber-%2300ADD8.svg?style=for-the-badge&logo=data:image/svg+xml;base64,Cjxzdmcgdmlld0JveD0iMCAwIDgwMCAzMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGcgZmlsbD0iIzMzMyI+PHBhdGggZD0ibTIzOS4yNSA2OS41OGgxMTcuODRsLTUuNzQgMzMuODloLTc2LjExbC01LjczIDM1LjRoNjguNjFsLTUuNzMgMzRoLTY4LjYxbC0xMS40NyA2OS4zN2gtNDEuNzJ6Ii8+PHBhdGggZD0ibTM1OSAxMTIuNzRoNDEuMjJsLTIxLjU0IDEyOS40N2gtNDEuMjJ6bTUtMzQuODljMS43LTEwLjg1IDEyLjQxLTE5LjY0IDI0LTE5LjY0czE5Ljg1IDguNzkgMTguNDEgMTkuNjQtMTIuMjIgMTkuNzItMjMuODUgMTkuNzItMjAuMTQtOC45NC0xOC41Ni0xOS43MnoiLz48cGF0aCBkPSJtNDIxLjYxIDY5LjU4aDQxLjIxbC0xMC43IDY1LjMzaC44OGM2Ljc0LTExLjg5IDIwLjE1LTIzLjg1IDQwLjYzLTIzLjg1IDI3LjA2IDAgNDggMjAuODIgNDAuMzcgNjYuNS03LjI1IDQ0LjA4LTM0LjIyIDY2LjUtNjIuODggNjYuNS0xOS41NSAwLTI5LjMzLTEwLjg3LTMyLjM2LTIyLjg0aC0xLjYxbC0zLjM3IDIxaC00MC43OHptNDAuNzEgMTQyLjQyYzE1LjE3IDAgMjYtMTMuNTcgMjkuMzMtMzQuNDdzLTIuNy0zNC4yMy0xOC0zNC4yM2MtMTUuMDkgMC0yNi4xMyAxMy4wNy0yOS41IDM0LjIzLTMuNDEgMjAuOTMgMy4wOCAzNC40NyAxOC4xNyAzNC40N3oiLz48cGF0aCBkPSJtNTM4Ljc5IDE3OGM2LjY1LTQwLjEyIDM2LjMyLTY2LjkyIDc1LjM1LTY2LjkyIDM2Ljc1IDAgNTguNjcgMjMuNTEgNTEuNTkgNjYuMDhsLTEuNjEgMTAuMjhoLTg2LjIybC0uMjYgMS41MmMtMi42MSAxNi40NCA1LjE0IDI2IDIxLjI0IDI2IDEwLjcxIDAgMjAtNC41NSAyNC43LTEzLjIzbDM3LjU5IDEuMDljLTkuMTggMjUuNDYtMzMuODggNDEuODktNjggNDEuODktNDAuNjUtLjA2LTYxLjM4LTI1LjM0LTU0LjM4LTY2Ljcxem05MC44Ni0xNC41YzIuMTEtMTMuMjMtNS44Mi0yMi42Ny0xOS4zLTIyLjY3LTEzLjMyIDAtMjUuMTIgOS44Ni0yOC4wNyAyMi42N3oiLz48cGF0aCBkPSJtNjg1LjggMTEyLjc0aDQwbC00IDIzLjZoMS4zNWM3LjY3LTE3LjExIDIwLjM5LTI1LjM0IDM0LjU1LTI1LjM0YTQ5IDQ5IDAgMCAxIDExLjMgMS40bC02LjA3IDM1LjkxYy0zLjc5LTEuNDMtMTAuNzktMi4xOS0xNS45My0yLjE5LTE0LjU4IDAtMjcuMjMgMTAuMzctMjkuOTIgMjUuNzlsLTExLjY0IDcwLjNoLTQxLjIxeiIvPjwvZz48cGF0aCBkPSJtMjEzLjc3IDExNS40MWgtMTM0LjUxbC0xMC43NiAxNS4yNyAxNDIuNzgtLjA4eiIgZmlsbD0iIzAwYWNkNyIvPjxwYXRoIGQ9Im0yMDkuMDIgMTQ3LjA2aC0xNzQuMDdsLTExLjA3IDE1LjIxIDE4Mi42NS0uMTN6IiBmaWxsPSIjMDBhY2Q3Ii8+PHBhdGggZD0ibTIwNC4yNyAxNzguN2gtNzQuMzdsLTEwIDE1LjI3IDgxLjg4LS4wNnoiIGZpbGw9IiMwMGFjZDciLz48L3N2Zz4K&logoColor=%232300ADD8)
 
-### Destributed Task Queue
+### Destributed System
 ![image](https://img.shields.io/badge/Celery-43853D?style=for-the-badge&logo=celery&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23F5792A.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+
 
 ### Desktop APP
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
@@ -55,6 +57,8 @@ I like to tech and give inspiration to people. My research interest I interested
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### MobileApp
 ![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
