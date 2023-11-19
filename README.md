@@ -4,9 +4,9 @@
 # About Me
 ## Pattanan Numpong
 
-I am studying High tech entrepreneur at @Harbour.Space University. I love coding biomedical technology and writing blogs https://standupcode.tech
-and robotics. I am really interested in Life-science especially Bioinformatics. If I have some free time, I will spend my free time online learning or going to science camp.
-I like to teach and give inspiration to people. My research interest I am interested in the field of Health tech and medical tech esqecally in machine learning.
+I am studying High tech entrepreneurship at https://Harbour.space University. I love coding biomedical technology and writing blogs https://standupcode.tech
+and robotics. I am really interested in life science, especially Bioinformatics. If I have some free time, I will spend my free time online learning or going to science camp.
+I like to teach and give inspiration to people. My research interest I am interested in the field of Health tech and medical tech especially in machine learning.
 
 ## My Machine
 ![image](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
