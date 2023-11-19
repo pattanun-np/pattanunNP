@@ -4,9 +4,9 @@
 # About Me
 ## Pattanan Numpong
 
-I am studing Computer Science at Chulalongkorn University. I love coding biomedical technology write blog https://standupcode.tech
-and robotics. I really interested in Life-science especially Bioinformatics. If have some freetime, I will spent my free to online learning or go to science camp.
-I like to tech and give inspiration to people. My research interest I interested to research in field of Health tech, Medical tech esqecally in machine learning.
+I am studying High tech entrepreneur at @Harbour.Space University. I love coding biomedical technology and writing blogs https://standupcode.tech
+and robotics. I am really interested in Life-science especially Bioinformatics. If I have some free time, I will spend my free time online learning or going to science camp.
+I like to teach and give inspiration to people. My research interest I am interested in the field of Health tech and medical tech esqecally in machine learning.
 
 ## My Machine
 ![image](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
@@ -98,7 +98,7 @@ I like to tech and give inspiration to people. My research interest I interested
 ![Instagram](https://img.shields.io/badge/pattanun_np-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
 ## My Stat
-![pattanunNP github stats](https://github-readme-stats.vercel.app/api?username=pattanunNP&show_icons=true&theme=dracula)
+![pattanunNP GitHub stats](https://github-readme-stats.vercel.app/api?username=pattanunNP&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pattanunNP&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://app.daily.dev/PattanunNP"><img src="https://api.daily.dev/devcards/12d3469244e642408bec76a23a7e3ee6.png?r=wmq" width="400" alt="พัทธนันท์ นุ่มผ่อง's Dev Card"/></a>
